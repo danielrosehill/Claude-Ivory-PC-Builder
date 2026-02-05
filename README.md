@@ -1,3 +1,5 @@
+[![Claude Code Project](https://img.shields.io/badge/Claude%20Code-Project-blue?style=flat-square&logo=anthropic)](https://github.com/danielrosehill/Claude-Code-Repos-Index)
+
 # Ivory PC Builder
 
 An AI-powered PC building assistant that uses Claude Code to generate optimized component specifications based on your requirements, with real-time pricing from [Ivory.co.il](https://www.ivory.co.il).
@@ -184,3 +186,7 @@ This repository can be used as a template for your own PC building projects:
 ## License
 
 MIT License - Feel free to use and modify for your own PC building projects.
+
+---
+
+For more Claude Code projects, visit my [Claude Code Repos Index](https://github.com/danielrosehill/Claude-Code-Repos-Index).
