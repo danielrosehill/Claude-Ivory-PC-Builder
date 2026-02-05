@@ -1,0 +1,371 @@
+{
+  "metadata": {
+    "category_name": "GPUs - NVIDIA",
+    "category_slug": "gpus_nvidia",
+    "source_url": "https://www.ivory.co.il/catalog.php?act=cat&id=2652&f=1258",
+    "scraped_at": "2026-02-05T13:52:45.364475",
+    "product_count": 60
+  },
+  "products": [
+    {
+      "id": "133737",
+      "name": "כרטיס מסך Gigabyte GeForce RTX 3050 WINDFORCE OC V2 6GB GDDR6",
+      "price_ils": 815.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=133737"
+    },
+    {
+      "id": "42702",
+      "name": "כרטיס מסך ASUS GeForce GT 730 2GB GDDR5 עם 4 חיבורי HDMI",
+      "price_ils": 389.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=42702"
+    },
+    {
+      "id": "133827",
+      "name": "כרטיס מסך ASUS PRIME GeForce RTX 5060 Ti 16GB GDDR7 OC Edition",
+      "price_ils": 2649.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=133827"
+    },
+    {
+      "id": "142124",
+      "name": "כרטיס מסך Gigabyte GeForce RTX 5060 Ti EAGLE OC ICE 16GB GDDR7",
+      "price_ils": 2360.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=142124"
+    },
+    {
+      "id": "147235",
+      "name": "כרטיס מסך Gigabyte GeForce RTX 5070 Ti WINDFORCE SFF 16GB GDDR7",
+      "price_ils": 4150.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=147235"
+    },
+    {
+      "id": "129501",
+      "name": "כרטיס מסך Gigabyte GeForce RTX 5070 Ti EAGLE OC SFF 16GB GDDR7",
+      "price_ils": 4290.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=129501"
+    },
+    {
+      "id": "129456",
+      "name": "כרטיס מסך MSI GeForce RTX 5070 12G GAMING TRIO OC",
+      "price_ils": 2960.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=129456"
+    },
+    {
+      "id": "126399",
+      "name": "כרטיס מסך ASUS ROG Astral GeForce RTX 5080 16GB GDDR7 OC Edition",
+      "price_ils": 7990.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=126399"
+    },
+    {
+      "id": "131379",
+      "name": "כרטיס מסך Gigabyte GeForce RTX 5070 Ti EAGLE OC ICE SFF 16GB GDDR7",
+      "price_ils": 4480.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=131379"
+    },
+    {
+      "id": "140375",
+      "name": "כרטיס מסך Gainward GeForce RTX 5060 Ti Python III 16GB GDDR7",
+      "price_ils": 2215.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=140375"
+    },
+    {
+      "id": "151903",
+      "name": "כרטיס מסך ASUS ROG Astral GeForce RTX 5080 16GB GDDR7",
+      "price_ils": 7890.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=151903"
+    },
+    {
+      "id": "95469",
+      "name": "כרטיס מסך ASUS Dual GeForce RTX 3050 OC Edition 6GB GDDR6",
+      "price_ils": 835.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=95469"
+    },
+    {
+      "id": "150163",
+      "name": "כרטיס מסך Gigabyte GeForce RTX 5090 WINDFORCE OC 32GB GDDR7",
+      "price_ils": 14950.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=150163"
+    },
+    {
+      "id": "133311",
+      "name": "כרטיס מסך Gigabyte GeForce RTX 5060 Ti WINDFORCE OC 8GB GDDR7",
+      "price_ils": 1830.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=133311"
+    },
+    {
+      "id": "133836",
+      "name": "כרטיס מסך ASUS Dual GeForce RTX 5060 Ti 16GB GDDR7 OC Edition",
+      "price_ils": 2489.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=133836"
+    },
+    {
+      "id": "22001",
+      "name": "כרטיס מסך ASUS Nvidia GeForce GT 1030 2GB GDDR5",
+      "price_ils": 419.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=22001"
+    },
+    {
+      "id": "126411",
+      "name": "כרטיס מסך ASUS TUF Gaming GeForce RTX 5090 32GB GDDR7 OC Edition",
+      "price_ils": 15850.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=126411"
+    },
+    {
+      "id": "126414",
+      "name": "כרטיס מסך ASUS PRIME GeForce RTX 5080 16GB GDDR7 OC Edition",
+      "price_ils": 6490.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=126414"
+    },
+    {
+      "id": "129468",
+      "name": "כרטיס מסך MSI GeForce RTX 5070 12G VENTUS 2X OC WHITE בצבע לבן",
+      "price_ils": 2965.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=129468"
+    },
+    {
+      "id": "129411",
+      "name": "כרטיס מסך Gigabyte GeForce RTX 5070 Ti AERO OC 16GB GDDR7",
+      "price_ils": 5250.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=129411"
+    },
+    {
+      "id": "129531",
+      "name": "כרטיס מסך ZOTAC GAMING GeForce RTX 5080 SOLID CORE 16GB GDDR7",
+      "price_ils": 5699.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=129531"
+    },
+    {
+      "id": "129498",
+      "name": "כרטיס מסך Gigabyte GeForce RTX 5070 Ti WINDFORCE OC SFF 16GB GDDR7",
+      "price_ils": 4150.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=129498"
+    },
+    {
+      "id": "129636",
+      "name": "כרטיס מסך Gigabyte GeForce RTX 5080 AERO OC SFF 16GB GDDR7",
+      "price_ils": 5945.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=129636"
+    },
+    {
+      "id": "131025",
+      "name": "כרטיס מסך Gigabyte GeForce RTX 5070 AERO OC 12GB GDDR7",
+      "price_ils": 3130.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=131025"
+    },
+    {
+      "id": "131019",
+      "name": "כרטיס מסך Palit GeForce RTX 5070 Infinity 3 12GB GDDR7",
+      "price_ils": 3150.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=131019"
+    },
+    {
+      "id": "131649",
+      "name": "כרטיס מסך ASUS Dual GeForce RTX 5060 Ti 8GB GDDR7 OC Edition",
+      "price_ils": 1890.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=131649"
+    },
+    {
+      "id": "131646",
+      "name": "כרטיס מסך ASUS PRIME GeForce RTX 5060 Ti 8GB GDDR7 OC Edition",
+      "price_ils": 1949.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=131646"
+    },
+    {
+      "id": "131943",
+      "name": "כרטיס מסך ZOTAC GAMING GeForce RTX 5060 Ti 8GB Twin Edge",
+      "price_ils": 2190.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=131943"
+    },
+    {
+      "id": "131955",
+      "name": "כרטיס מסך Gigabyte AORUS GeForce RTX 5070 MASTER 12GB GDDR7",
+      "price_ils": 3525.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=131955"
+    },
+    {
+      "id": "133611",
+      "name": "כרטיס מסך MSI GeForce RTX 5060 Ti 16G VENTUS 2X OC PLUS",
+      "price_ils": 2465.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=133611"
+    },
+    {
+      "id": "133605",
+      "name": "כרטיס מסך MSI GeForce RTX 5070 12G VENTUS 3X OC",
+      "price_ils": 3020.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=133605"
+    },
+    {
+      "id": "133314",
+      "name": "כרטיס מסך ZOTAC GAMING GeForce RTX 5060 Ti 16GB Twin Edge OC",
+      "price_ils": 2315.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=133314"
+    },
+    {
+      "id": "133680",
+      "name": "כרטיס מסך ASUS Dual GeForce RTX 5060 8GB GDDR7 OC Edition",
+      "price_ils": 1680.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=133680"
+    },
+    {
+      "id": "135057",
+      "name": "כרטיס מסך MSI GeForce RTX 5070 12G SHADOW 2X OC",
+      "price_ils": 3120.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=135057"
+    },
+    {
+      "id": "138207",
+      "name": "כרטיס מסך Gigabyte GeForce RTX 5060 WINDFORCE OC 8GB GDDR7",
+      "price_ils": 1550.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=138207"
+    },
+    {
+      "id": "136815",
+      "name": "כרטיס מסך Gigabyte GeForce RTX 5060 Ti GAMING OC 8GB GDDR7",
+      "price_ils": 1975.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=136815"
+    },
+    {
+      "id": "137514",
+      "name": "כרטיס מסך PNY GeForce RTX 5060 Overclocked Dual Fan 8GB GDDR7",
+      "price_ils": 1480.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=137514"
+    },
+    {
+      "id": "138237",
+      "name": "כרטיס מסך Gigabyte GeForce RTX 5060 Ti EAGLE OC 8GB GDDR7",
+      "price_ils": 1865.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=138237"
+    },
+    {
+      "id": "138234",
+      "name": "כרטיס מסך Gigabyte GeForce RTX 5060 Ti EAGLE OC 16GB GDDR7",
+      "price_ils": 2425.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=138234"
+    },
+    {
+      "id": "138507",
+      "name": "כרטיס מסך PNY GeForce RTX 5060 Dual Fan 8GB GDDR7",
+      "price_ils": 1390.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=138507"
+    },
+    {
+      "id": "137517",
+      "name": "כרטיס מסך Gigabyte GeForce RTX 5060 EAGLE OC ICE 8GB GDDR7",
+      "price_ils": 1645.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=137517"
+    },
+    {
+      "id": "139763",
+      "name": "כרטיס מסך MSI GeForce RTX 5070 12G VANGUARD SOC",
+      "price_ils": 3280.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=139763"
+    },
+    {
+      "id": "140363",
+      "name": "כרטיס מסך Gainward GeForce RTX 5050 Ghost 8GB GDDR6",
+      "price_ils": 1197.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=140363"
+    },
+    {
+      "id": "140366",
+      "name": "כרטיס מסך Gainward GeForce RTX 5060 Ghost 8GB GDDR7",
+      "price_ils": 1510.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=140366"
+    },
+    {
+      "id": "140372",
+      "name": "כרטיס מסך Gainward GeForce RTX 5060 Ti Python III 8GB GDDR7",
+      "price_ils": 1855.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=140372"
+    },
+    {
+      "id": "140381",
+      "name": "כרטיס מסך Gainward GeForce RTX 5070 Phoenix-S 12GB GDDR7",
+      "price_ils": 2950.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=140381"
+    },
+    {
+      "id": "140378",
+      "name": "כרטיס מסך Gainward GeForce RTX 5070 Python III 12GB GDDR7",
+      "price_ils": 2740.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=140378"
+    },
+    {
+      "id": "140435",
+      "name": "כרטיס מסך Gainward GeForce RTX 5070 Ti Phoenix-S 16GB GDDR7",
+      "price_ils": 3890.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=140435"
+    },
+    {
+      "id": "140384",
+      "name": "כרטיס מסך Gainward GeForce RTX 5070 Ti Phoenix-S GS 16GB GDDR7",
+      "price_ils": 3990.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=140384"
+    },
+    {
+      "id": "142112",
+      "name": "כרטיס מסך Gigabyte GeForce RTX 5060 WINDFORCE MAX OC 8GB GDDR7",
+      "price_ils": 1530.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=142112"
+    },
+    {
+      "id": "142115",
+      "name": "כרטיס מסך Gigabyte GeForce RTX 5060 Ti EAGLE MAX OC 8GB GDDR7",
+      "price_ils": 1970.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=142115"
+    },
+    {
+      "id": "142118",
+      "name": "כרטיס מסך Gigabyte GeForce RTX 5060 Ti AERO OC 8GB GDDR7",
+      "price_ils": 2035.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=142118"
+    },
+    {
+      "id": "142121",
+      "name": "כרטיס מסך Gigabyte GeForce RTX 5060 Ti EAGLE MAX OC 16GB GDDR7",
+      "price_ils": 2540.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=142121"
+    },
+    {
+      "id": "142127",
+      "name": "כרטיס מסך Gigabyte GeForce RTX 5080 WINDFORCE SFF 16GB GDDR7",
+      "price_ils": 5350.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=142127"
+    },
+    {
+      "id": "142517",
+      "name": "כרטיס מסך ASUS Dual GeForce RTX 5070 12GB GDDR7 OC Edition",
+      "price_ils": 2699.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=142517"
+    },
+    {
+      "id": "142073",
+      "name": "כרטיס מסך ZOTAC GAMING GeForce RTX 5050 Twin Edge 8GB GDDR6",
+      "price_ils": 1390.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=142073"
+    },
+    {
+      "id": "147775",
+      "name": "כרטיס מסך ASUS GeForce RTX 5080 16GB GDDR7 Noctua OC Edition",
+      "price_ils": 7199.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=147775"
+    },
+    {
+      "id": "148663",
+      "name": "מציאון - כרטיס מסך Gigabyte GeForce RTX 5060 WINDFORCE OC 8GB GDDR7 - מתוקן",
+      "price_ils": 1420.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=148663"
+    },
+    {
+      "id": "149983",
+      "name": "כרטיס מסך Gainward GeForce RTX 5080 Phoenix 16GB GDDR7",
+      "price_ils": 5220.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=149983"
+    },
+    {
+      "id": "150253",
+      "name": "כרטיס מסך ASUS TUF Gaming GeForce RTX 5060 8GB GDDR7 OC Edition",
+      "price_ils": 1949.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=150253"
+    }
+  ]
+}

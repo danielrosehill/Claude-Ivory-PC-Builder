@@ -1,0 +1,371 @@
+{
+  "metadata": {
+    "category_name": "RAM",
+    "category_slug": "ram",
+    "source_url": "https://www.ivory.co.il/computer_memory.html",
+    "scraped_at": "2026-02-05T13:52:33.128173",
+    "product_count": 60
+  },
+  "products": [
+    {
+      "id": "38840",
+      "name": "זכרון למחשב Kingston ValueRAM 16GB DDR4 3200MHz KVR32N22S8/16 DIMM",
+      "price_ils": 490.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=38840"
+    },
+    {
+      "id": "82152",
+      "name": "זכרון למחשב Kingston Fury Beast RGB DDR4 3200MHz 2x16GB KF432C16BB2AK2/32 DIMM",
+      "price_ils": 1350.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=82152"
+    },
+    {
+      "id": "149683",
+      "name": "זכרון למחשב Team Group T-FORCE VULCAN Z DDR4 – מהירות 3200MT/s – נפח 2x8GB – זמן אחזור CL16 – צבע אפור",
+      "price_ils": 720.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=149683"
+    },
+    {
+      "id": "87798",
+      "name": "זכרון למחשב Team Group ELITE DDR4 3200MHz 8GB TED48G3200C2201",
+      "price_ils": 320.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=87798"
+    },
+    {
+      "id": "114803",
+      "name": "זכרון למחשב Kingston Fury Beast RGB DDR5 6000MHz 2x16GB KF560C36BBE2AK2-32 DIMM",
+      "price_ils": 1950.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=114803"
+    },
+    {
+      "id": "45389",
+      "name": "זכרון למחשב Kingston Fury Beast RGB DDR5 5600MHz 2x8GB KF556C40BBAK2-16 DIMM",
+      "price_ils": 970.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=45389"
+    },
+    {
+      "id": "112837",
+      "name": "זכרון למחשב Kingston ValueRAM 16GB DDR5 5600MHz KVR56U46BS8-16 DIMM",
+      "price_ils": 790.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=112837"
+    },
+    {
+      "id": "38841",
+      "name": "זכרון למחשב Kingston ValueRAM 32GB DDR4 3200MHz KVR32N22D8/32 DIMM",
+      "price_ils": 990.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=38841"
+    },
+    {
+      "id": "95580",
+      "name": "זכרון למחשב Team Group ELITE PLUS DDR5 5600MHz 8GB CL46 TPBD58G5600HC4601",
+      "price_ils": 420.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=95580"
+    },
+    {
+      "id": "87801",
+      "name": "זכרון למחשב Team Group ELITE DDR4 3200MHz 16GB TED416G3200C2201",
+      "price_ils": 590.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=87801"
+    },
+    {
+      "id": "127230",
+      "name": "זכרון למחשב Team Group ELITE DDR3 8GB 1600MHz TED3L8G1600C1101",
+      "price_ils": 199.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=127230"
+    },
+    {
+      "id": "148948",
+      "name": "זכרון למחשב Kingston Fury Beast RGB DDR5 – מהירות 6000MT/s – נפח 32GB – זמן אחזור CL30 – תואם AMD EXPO – צבע שחור",
+      "price_ils": 1890.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=148948"
+    },
+    {
+      "id": "43060",
+      "name": "זכרון למחשב Kingston Fury Beast DDR5 5600MHz 16GB KF556C40BB-16 DIMM",
+      "price_ils": 940.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=43060"
+    },
+    {
+      "id": "150634",
+      "name": "זכרון למחשב Kingston Fury Beast RGB DDR5 – מהירות 6000MT/s – נפח 2x16GB – זמן אחזור CL30 – תואם AMD EXPO – צבע שחור",
+      "price_ils": 2180.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=150634"
+    },
+    {
+      "id": "95583",
+      "name": "זכרון למחשב Team Group ELITE PLUS DDR5 5600MHz 16GB CL46 TPBD516G5600HC4601",
+      "price_ils": 780.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=95583"
+    },
+    {
+      "id": "116063",
+      "name": "זכרון למחשב Kingston Fury Beast RGB DDR5 6000MHz 2x32GB KF560C36BBEAK2-64 DIMM",
+      "price_ils": 3650.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=116063"
+    },
+    {
+      "id": "148399",
+      "name": "זכרון למחשב CORSAIR VENGEANCE DDR5 – מהירות 7000MT/s – נפח 2x24GB – זמן אחזור CL40",
+      "price_ils": 2450.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=148399"
+    },
+    {
+      "id": "155053",
+      "name": "זכרון למחשב Team Group T-FORCE VULCAN Z DDR4 – מהירות 3200MT/s – נפח 2x8GB – זמן אחזור CL16 – צבע אפור",
+      "price_ils": 725.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=155053"
+    },
+    {
+      "id": "39618",
+      "name": "זכרון למחשב Kingston Fury Beast DDR4 3200MHz 2X8GB KF432C16BBK2/16 DIMM",
+      "price_ils": 750.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=39618"
+    },
+    {
+      "id": "43204",
+      "name": "זכרון למחשב Kingston Fury Beast DDR5 5600MHz 2x16GB KF556C40BBK2-32 DIMM",
+      "price_ils": 1890.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=43204"
+    },
+    {
+      "id": "45383",
+      "name": "זכרון למחשב Kingston Fury Beast RGB DDR5 5200MHz 16GB KF552C40BBA-16 DIMM",
+      "price_ils": 940.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=45383"
+    },
+    {
+      "id": "45386",
+      "name": "זכרון למחשב Kingston Fury Beast RGB DDR5 5600MHz 16GB KF556C40BBA-16 DIMM",
+      "price_ils": 1050.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=45386"
+    },
+    {
+      "id": "45398",
+      "name": "זכרון למחשב Kingston Fury Beast RGB DDR5 5200MHz 32GB KF552C40BBA-32 DIMM",
+      "price_ils": 1770.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=45398"
+    },
+    {
+      "id": "45404",
+      "name": "זכרון למחשב Kingston Fury Beast RGB DDR5 5600MHz 2x32GB KF556C40BBAK2-64 DIMM",
+      "price_ils": 3650.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=45404"
+    },
+    {
+      "id": "59069",
+      "name": "זכרון למחשב Kingston Fury Beast RGB DDR5 5600MHz 32GB KF556C40BBA-32 DIMM",
+      "price_ils": 1830.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=59069"
+    },
+    {
+      "id": "68015",
+      "name": "זכרון למחשב Corsair Dominator Platinum RGB 5200MHz CMT64GX5M2B5200C40 2x32GB C40 DDR5",
+      "price_ils": 3660.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=68015"
+    },
+    {
+      "id": "77630",
+      "name": "זכרון למחשב Crucial Pro DDR5 5600MHz 2x16GB CP2K16G56C46U5 UDIMM",
+      "price_ils": 1940.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=77630"
+    },
+    {
+      "id": "78122",
+      "name": "זכרון למחשב Kingston Fury Renegade RGB DDR5 6000MHz 2x48GB KF560C32RSAK2-96 SDRAM",
+      "price_ils": 3990.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=78122"
+    },
+    {
+      "id": "78125",
+      "name": "זיכרון למחשב Kingston FURY Renegade DDR5 6000MHz 2x48GB KF560C32RSK2-96 DIMM",
+      "price_ils": 3990.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=78125"
+    },
+    {
+      "id": "78143",
+      "name": "זכרון למחשב Kingston FURY Renegade RGB DDR5 6400MHz 2x48GB KF564C32RSAK2-96 SDRAM",
+      "price_ils": 4090.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=78143"
+    },
+    {
+      "id": "82182",
+      "name": "זכרון למחשב Kingston Fury Beast RGB DDR4 3600MHz 2x8GB KF436C17BB2AK2/16 DIMM",
+      "price_ils": 850.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=82182"
+    },
+    {
+      "id": "81936",
+      "name": "זכרון למחשב Kingston Fury Beast RGB DDR4 3600MHz 8GB KF436C17BB2A/8 DIMM",
+      "price_ils": 360.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=81936"
+    },
+    {
+      "id": "83325",
+      "name": "זכרון למחשב Kingston FURY Beast White DDR5 RGB 5200MHz 16GB KF552C40BWA-16 DIMM לבן",
+      "price_ils": 845.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=83325"
+    },
+    {
+      "id": "83340",
+      "name": "זכרון למחשב Kingston FURY Beast DDR5 White RGB 5200MHz 2x16GB KF552C40BWAK2-32 DIMM לבן",
+      "price_ils": 1770.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=83340"
+    },
+    {
+      "id": "83349",
+      "name": "זכרון למחשב Kingston FURY Beast DDR5 White RGB 5600MHz 2x32GB KF556C40BWAK2-64 DIMM לבן",
+      "price_ils": 3590.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=83349"
+    },
+    {
+      "id": "83334",
+      "name": "זכרון למחשב Kingston FURY Beast DDR5 White RGB 5600MHz 32GB KF556C40BWA-32 DIMM לבן",
+      "price_ils": 1830.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=83334"
+    },
+    {
+      "id": "83331",
+      "name": "זכרון למחשב Kingston FURY Beast White DDR5 RGB 5200MHz 32GB KF552C40BWA-32 DIMM לבן",
+      "price_ils": 1750.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=83331"
+    },
+    {
+      "id": "83337",
+      "name": "זכרון למחשב Kingston FURY Beast DDR5 White RGB 5600MHz 2x16GB KF556C40BWAK2-32 DIMM לבן",
+      "price_ils": 1880.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=83337"
+    },
+    {
+      "id": "87804",
+      "name": "זכרון למחשב Team Group ELITE DDR4 3200MHz 32GB TED432G3200C2201",
+      "price_ils": 1080.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=87804"
+    },
+    {
+      "id": "87810",
+      "name": "זכרון למחשב Team Group T-CREATE CLASSIC DDR5 5600MHz 2x16GB CTCCD532G5600HC46DC01",
+      "price_ils": 1920.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=87810"
+    },
+    {
+      "id": "87864",
+      "name": "זכרון למחשב Team Group T-FORCE DELTA DDR4 3200MHz 8GB TF3D48G3200HC16F01 בצבע שחור",
+      "price_ils": 380.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=87864"
+    },
+    {
+      "id": "87918",
+      "name": "זכרון למחשב Team Group T-FORCE DELTA RGB DDR5 6400MHz 2x16GB CL40 בצבע לבן",
+      "price_ils": 2020.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=87918"
+    },
+    {
+      "id": "87909",
+      "name": "זכרון למחשב Team Group T-FORCE DELTA RGB DDR5 6000MHz 16GB CL38 בצבע לבן",
+      "price_ils": 1050.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=87909"
+    },
+    {
+      "id": "87915",
+      "name": "זכרון למחשב Team Group T-FORCE DELTA RGB DDR5 6400MHz 2x16GB CL40 בצבע שחור",
+      "price_ils": 2020.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=87915"
+    },
+    {
+      "id": "96591",
+      "name": "זכרון למחשב CORSAIR VENGEANCE RGB DDR5 – מהירות 6000MT/s – נפח 2x24GB – זמן אחזור CL36 – תאורת RGB",
+      "price_ils": 2115.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=96591"
+    },
+    {
+      "id": "111199",
+      "name": "זכרון למחשב Team Group T-FORCE DELTAα RGB DDR5 5600MHz 2x16GB FF8D532G5600HC40BDC01 בצבע לבן",
+      "price_ils": 1950.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=111199"
+    },
+    {
+      "id": "111197",
+      "name": "זכרון למחשב Team Group T-FORCE DELTAα RGB DDR5 5600MHz 2x16GB FF7D532G5600HC40BDC01 בצבע שחור",
+      "price_ils": 1950.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=111197"
+    },
+    {
+      "id": "112839",
+      "name": "זכרון למחשב Kingston ValueRAM 32GB DDR5 5600MHz KVR56U46BD8-32 DIMM",
+      "price_ils": 1890.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=112839"
+    },
+    {
+      "id": "114797",
+      "name": "זכרון למחשב Kingston FURY Beast DDR5 White RGB 6000MHz 16GB KF560C36BWE2A-16 DIMM לבן",
+      "price_ils": 1050.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=114797"
+    },
+    {
+      "id": "114799",
+      "name": "זכרון למחשב Kingston FURY Beast DDR5 White RGB 6000MHz 2x32GB KF560C36BWEAK2-64 DIMM לבן",
+      "price_ils": 3650.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=114799"
+    },
+    {
+      "id": "116081",
+      "name": "זכרון למחשב Kingston Fury Beast RGB DDR5 6000MHz 32GB KF560C36BBEA-32 DIMM",
+      "price_ils": 1880.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=116081"
+    },
+    {
+      "id": "127449",
+      "name": "זכרון למחשב Team Group T-FORCE DELTA RGB DDR5 5600MHz 2x16GB CL36 בצבע לבן",
+      "price_ils": 1950.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=127449"
+    },
+    {
+      "id": "127218",
+      "name": "זכרון למחשב Team Group T-FORCE DELTA RGB DDR5 6000MHz 2x32GB CL38 בצבע לבן",
+      "price_ils": 3720.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=127218"
+    },
+    {
+      "id": "127452",
+      "name": "זכרון למחשב Team Group T-FORCE DELTA RGB DDR5 5600MHz 2x16GB CL36 בצבע שחור",
+      "price_ils": 1950.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=127452"
+    },
+    {
+      "id": "127209",
+      "name": "זכרון למחשב Team Group T-FORCE DELTA RGB DDR5 6000MHz 2x16GB CL38 בצבע שחור",
+      "price_ils": 1970.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=127209"
+    },
+    {
+      "id": "127215",
+      "name": "זכרון למחשב Team Group T-FORCE DELTA RGB DDR5 6000MHz 2x32GB CL38 בצבע שחור",
+      "price_ils": 3720.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=127215"
+    },
+    {
+      "id": "128589",
+      "name": "זכרון למחשב Kingston Fury Beast RGB DDR5 5600MHz 2x16GB KF556C40BBAK2-32 DIMM",
+      "price_ils": 1890.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=128589"
+    },
+    {
+      "id": "130941",
+      "name": "זכרון למחשב Team Group T-FORCE DELTA RGB DDR5 5600MHz 2x32GB CL36 בצבע שחור",
+      "price_ils": 3590.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=130941"
+    },
+    {
+      "id": "127224",
+      "name": "זכרון למחשב Team Group T-FORCE DELTA RGB DDR5 6000MHz 32GB CL38 בצבע שחור",
+      "price_ils": 1950.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=127224"
+    },
+    {
+      "id": "127227",
+      "name": "זכרון למחשב Team Group T-FORCE DELTA RGB DDR5 6000MHz 32GB CL38 בצבע לבן",
+      "price_ils": 1770.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=127227"
+    }
+  ]
+}

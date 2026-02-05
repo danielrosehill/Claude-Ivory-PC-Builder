@@ -1,0 +1,26 @@
+{
+  "timestamp": "2026-02-05_13-52-27",
+  "scraped_at": "2026-02-05T13:52:27.973751",
+  "completed_at": "2026-02-05T13:52:55.705011",
+  "duration_seconds": 27.73126,
+  "categories_scraped": 16,
+  "total_products": 660,
+  "results_by_category": {
+    "intel_cpus": 48,
+    "amd_cpus": 36,
+    "ram": 60,
+    "cases": 60,
+    "intel_motherboards": 53,
+    "amd_motherboards": 45,
+    "internal_ssds": 48,
+    "internal_hdds": 15,
+    "psus": 38,
+    "gpus_nvidia": 60,
+    "gpus_amd": 13,
+    "cpu_coolers": 46,
+    "water_coolers": 46,
+    "case_fans": 47,
+    "network_cards": 41,
+    "optical_drives": 4
+  }
+}

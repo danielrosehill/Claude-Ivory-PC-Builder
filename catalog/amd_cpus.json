@@ -1,0 +1,227 @@
+{
+  "metadata": {
+    "category_name": "AMD CPUs",
+    "category_slug": "amd_cpus",
+    "source_url": "https://www.ivory.co.il/amd_cpu.html",
+    "scraped_at": "2026-02-05T13:43:55.168668",
+    "product_count": 36
+  },
+  "products": [
+    {
+      "id": "30398",
+      "name": "מעבד AMD Ryzen™ 3 3200G with Radeon™ Vega 8 Graphics Box",
+      "price_ils": 298.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=30398"
+    },
+    {
+      "id": "39983",
+      "name": "מעבד AMD Ryzen 7 5700G 8 Core Box",
+      "price_ils": 790.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=39983"
+    },
+    {
+      "id": "57254",
+      "name": "מעבד AMD Ryzen 7 7700X 4.5GHz 32MB AM5 Box",
+      "price_ils": 1354.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=57254"
+    },
+    {
+      "id": "57251",
+      "name": "מעבד AMD Ryzen 5 7600X 4.7GHz BOX",
+      "price_ils": 990.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=57251"
+    },
+    {
+      "id": "69566",
+      "name": "מעבד AMD Ryzen 7 7800X3D 8 Core Box",
+      "price_ils": 1715.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=69566"
+    },
+    {
+      "id": "72257",
+      "name": "מעבד AMD Ryzen 7 7700X 4.5GHz 8MB AM5 Tray",
+      "price_ils": 975.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=72257"
+    },
+    {
+      "id": "72767",
+      "name": "מעבד AMD Ryzen 5 7600X 6 Core Tray",
+      "price_ils": 906.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=72767"
+    },
+    {
+      "id": "85182",
+      "name": "מעבד AMD Ryzen 7 7700 8 Core Gaming Processor Tray",
+      "price_ils": 940.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=85182"
+    },
+    {
+      "id": "84822",
+      "name": "מעבד AMD Ryzen 9 7900 Gaming 12 Core Box",
+      "price_ils": 1699.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=84822"
+    },
+    {
+      "id": "84816",
+      "name": "מעבד AMD Ryzen 5 7600 Gaming 6 Core Box",
+      "price_ils": 948.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=84816"
+    },
+    {
+      "id": "86889",
+      "name": "מעבד AMD Ryzen 5 8600G up to 5.0GHz 16MB Cache 6 Cores Box",
+      "price_ils": 748.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=86889"
+    },
+    {
+      "id": "86892",
+      "name": "מעבד AMD Ryzen 5 8500G up to 5.0GHz 16MB Cache 6 Cores Box",
+      "price_ils": 790.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=86892"
+    },
+    {
+      "id": "86895",
+      "name": "מעבד AMD Ryzen 5 5600GT Box",
+      "price_ils": 650.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=86895"
+    },
+    {
+      "id": "89571",
+      "name": "מעבד AMD Ryzen 7 7700 up to 5.3GHz 32MB Cache 8 Cores Box",
+      "price_ils": 1343.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=89571"
+    },
+    {
+      "id": "101822",
+      "name": "מעבד AMD Ryzen 5 7600 Gaming 6 Core Tray",
+      "price_ils": 899.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=101822"
+    },
+    {
+      "id": "105808",
+      "name": "מעבד AMD Ryzen 9 9950X Box",
+      "price_ils": 2433.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=105808"
+    },
+    {
+      "id": "105814",
+      "name": "מעבד AMD Ryzen 9 9900X Box",
+      "price_ils": 1850.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=105814"
+    },
+    {
+      "id": "105818",
+      "name": "מעבד AMD Ryzen 5 9600X Box",
+      "price_ils": 992.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=105818"
+    },
+    {
+      "id": "108908",
+      "name": "מעבד AMD Ryzen 7 7800X3D 8 Core Tray",
+      "price_ils": 1505.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=108908"
+    },
+    {
+      "id": "109058",
+      "name": "מעבד AMD Ryzen 5 9600X Tray",
+      "price_ils": 992.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=109058"
+    },
+    {
+      "id": "109064",
+      "name": "מעבד AMD Ryzen 7 9700X Tray",
+      "price_ils": 1179.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=109064"
+    },
+    {
+      "id": "115177",
+      "name": "מעבד AMD Ryzen 7 9800X3D Box",
+      "price_ils": 2233.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=115177"
+    },
+    {
+      "id": "119039",
+      "name": "מעבד AMD Ryzen 7 9800X3D Tray",
+      "price_ils": 2025.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=119039"
+    },
+    {
+      "id": "126060",
+      "name": "מעבד AMD Ryzen 5 7500F Tray",
+      "price_ils": 609.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=126060"
+    },
+    {
+      "id": "128577",
+      "name": "מעבד AMD Ryzen 9 9950X3D Box",
+      "price_ils": 3217.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=128577"
+    },
+    {
+      "id": "129267",
+      "name": "מעבד AMD Ryzen 9 9950X3D Tray",
+      "price_ils": 3149.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=129267"
+    },
+    {
+      "id": "133776",
+      "name": "מעבד AMD Ryzen 7 5800X Tray",
+      "price_ils": 890.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=133776"
+    },
+    {
+      "id": "133779",
+      "name": "מעבד AMD Ryzen 5 5600GT Tray",
+      "price_ils": 505.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=133779"
+    },
+    {
+      "id": "45008",
+      "name": "מעבד AMD Ryzen 3 PRO 4350G Tray",
+      "price_ils": 315.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=45008"
+    },
+    {
+      "id": "147253",
+      "name": "מעבד AMD Ryzen 9 9900X3D Tray",
+      "price_ils": 2550.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=147253"
+    },
+    {
+      "id": "147655",
+      "name": "מעבד AMD Ryzen 5 7500X3D Tray",
+      "price_ils": 1034.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=147655"
+    },
+    {
+      "id": "147658",
+      "name": "מעבד AMD Ryzen 5 7500X3D Box",
+      "price_ils": 1240.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=147658"
+    },
+    {
+      "id": "150286",
+      "name": "מעבד AMD Ryzen 9 9950X Tray",
+      "price_ils": 2239.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=150286"
+    },
+    {
+      "id": "154048",
+      "name": "מעבד AMD Ryzen 5 8400F Tray",
+      "price_ils": 439.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=154048"
+    },
+    {
+      "id": "155824",
+      "name": "מעבד AMD Ryzen 7 9850X3D Box",
+      "price_ils": 2350.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=155824"
+    },
+    {
+      "id": "155827",
+      "name": "מעבד AMD Ryzen 7 9850X3D Tray",
+      "price_ils": 2259.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=155827"
+    }
+  ]
+}

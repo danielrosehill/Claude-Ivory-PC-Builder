@@ -1,0 +1,35 @@
+{
+  "metadata": {
+    "category_name": "Optical Drives",
+    "category_slug": "optical_drives",
+    "source_url": "https://www.ivory.co.il/disc_burners.html",
+    "scraped_at": "2026-02-05T13:52:55.704754",
+    "product_count": 4
+  },
+  "products": [
+    {
+      "id": "94737",
+      "name": "צורב חיצוני Ivory Peripherals OPT-002 CD / DVD חיבור USB-A / UAB-C",
+      "price_ils": 129.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=94737"
+    },
+    {
+      "id": "94734",
+      "name": "צורב חיצוני 7 ב-1 CD DVD עם קורא כרטיסים Ivory Peripherals OPT-001",
+      "price_ils": 165.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=94734"
+    },
+    {
+      "id": "105508",
+      "name": "צורב פנימי Ivory Hardware CD+DVD OEM",
+      "price_ils": 89.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=105508"
+    },
+    {
+      "id": "106188",
+      "name": "מציאון - צורב חיצוני Ivory Peripherals OPT-002 CD / DVD חיבור USB-A / UAB-C - מוחדש",
+      "price_ils": 89.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=106188"
+    }
+  ]
+}

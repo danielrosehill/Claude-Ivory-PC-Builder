@@ -1,0 +1,84 @@
+{
+  "categories": [
+    {
+      "name": "Intel CPUs",
+      "slug": "intel_cpus",
+      "url": "https://www.ivory.co.il/intel_cpu.html"
+    },
+    {
+      "name": "AMD CPUs",
+      "slug": "amd_cpus",
+      "url": "https://www.ivory.co.il/amd_cpu.html"
+    },
+    {
+      "name": "RAM",
+      "slug": "ram",
+      "url": "https://www.ivory.co.il/computer_memory.html"
+    },
+    {
+      "name": "Cases",
+      "slug": "cases",
+      "url": "https://www.ivory.co.il/computer_case.html"
+    },
+    {
+      "name": "Intel Motherboards",
+      "slug": "intel_motherboards",
+      "url": "https://www.ivory.co.il/intel_motherboard.html"
+    },
+    {
+      "name": "AMD Motherboards",
+      "slug": "amd_motherboards",
+      "url": "https://www.ivory.co.il/amd_motherboard.html"
+    },
+    {
+      "name": "Internal SSDs",
+      "slug": "internal_ssds",
+      "url": "https://www.ivory.co.il/ssd_storage.html"
+    },
+    {
+      "name": "Internal HDDs",
+      "slug": "internal_hdds",
+      "url": "https://www.ivory.co.il/hard_disk.html"
+    },
+    {
+      "name": "PSUs",
+      "slug": "psus",
+      "url": "https://www.ivory.co.il/power_supply.html"
+    },
+    {
+      "name": "GPUs - NVIDIA",
+      "slug": "gpus_nvidia",
+      "url": "https://www.ivory.co.il/catalog.php?act=cat&id=2652&f=1258"
+    },
+    {
+      "name": "GPUs - AMD",
+      "slug": "gpus_amd",
+      "url": "https://www.ivory.co.il/catalog.php?act=cat&id=2652&f=1259"
+    },
+    {
+      "name": "CPU Coolers",
+      "slug": "cpu_coolers",
+      "url": "https://www.ivory.co.il/cpu_cooler.html"
+    },
+    {
+      "name": "Water Coolers",
+      "slug": "water_coolers",
+      "url": "https://www.ivory.co.il/cpu-liquid-coolers.html"
+    },
+    {
+      "name": "Case Fans",
+      "slug": "case_fans",
+      "url": "https://www.ivory.co.il/case_fan.html"
+    },
+    {
+      "name": "Network Cards",
+      "slug": "network_cards",
+      "url": "https://www.ivory.co.il/wifi_adapter.html"
+    },
+    {
+      "name": "Optical Drives",
+      "slug": "optical_drives",
+      "url": "https://www.ivory.co.il/disc_burners.html"
+    }
+  ]
+}

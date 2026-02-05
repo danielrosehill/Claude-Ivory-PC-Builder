@@ -1,0 +1,257 @@
+{
+  "metadata": {
+    "category_name": "Network Cards",
+    "category_slug": "network_cards",
+    "source_url": "https://www.ivory.co.il/wifi_adapter.html",
+    "scraped_at": "2026-02-05T13:52:54.025287",
+    "product_count": 41
+  },
+  "products": [
+    {
+      "id": "34008",
+      "name": "מתאם רשת אלחוטית TP-Link TL-WN722N 150Mbps High Gain Wireless USB Adapter",
+      "price_ils": 40.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=34008"
+    },
+    {
+      "id": "34010",
+      "name": "מתאם רשת אלחוטי TP-Link Archer T2U  AC600 Wireless Dual Band USB 600Mbps",
+      "price_ils": 56.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=34010"
+    },
+    {
+      "id": "73967",
+      "name": "מוקה מתאם רשת על גבי כבל אנטנה קואקס YTMC MoCA 2.5Gbps",
+      "price_ils": 290.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=73967"
+    },
+    {
+      "id": "83655",
+      "name": "מתאם רשת אלחוטי ‏TP-Link Archer TX20U Plus AX1800‎ WiFi 6 USB",
+      "price_ils": 165.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=83655"
+    },
+    {
+      "id": "57917",
+      "name": "מתאם רשת מפצל USB-A ל 0.RJ45 + USB 3 רשת IVORY CONNECT",
+      "price_ils": 84.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=57917"
+    },
+    {
+      "id": "84723",
+      "name": "מתאם רשת USB-C ל-RJ45 רשת Ivory Connect",
+      "price_ils": 65.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=84723"
+    },
+    {
+      "id": "36229",
+      "name": "מתאם רשת TP-Link UE300C USB Type-C to RJ45 Gigabit Ethernet Network Adapter",
+      "price_ils": 67.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=36229"
+    },
+    {
+      "id": "57914",
+      "name": "מתאם מפצל USB-C ל RJ45 - USB3 רשת IVORY CONNECT",
+      "price_ils": 89.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=57914"
+    },
+    {
+      "id": "38828",
+      "name": "מתאם רשת אלחוטית TP-Link Archer T4U Plus Dual Antennas High-Gain Wireless USB 3.0",
+      "price_ils": 98.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=38828"
+    },
+    {
+      "id": "59510",
+      "name": "מתאם רשת USB-A ל- RJ45 רשת Ivory Connect 1G",
+      "price_ils": 65.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=59510"
+    },
+    {
+      "id": "84726",
+      "name": "מתאם רשת USB-C ל-RJ45 רשת Ivory Connect תומך במהירות עד 2.5Gbps",
+      "price_ils": 80.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=84726"
+    },
+    {
+      "id": "105450",
+      "name": "מתאם רשת אלחוטי Cudy WU1300 AC1300 Wi-Fi USB Adapter",
+      "price_ils": 69.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=105450"
+    },
+    {
+      "id": "105448",
+      "name": "מתאם רשת אלחוטי Cudy WU1400 AC1300 Wi-Fi High-Gain USB Adapter",
+      "price_ils": 79.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=105448"
+    },
+    {
+      "id": "71537",
+      "name": "מתאם רשת TP-link 2.5Gbps TX201 PCIE",
+      "price_ils": 109.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=71537"
+    },
+    {
+      "id": "34220",
+      "name": "מתאם רשת אלחוטית TP-Link TL-WN821N 300Mbps Wireless N USB",
+      "price_ils": 33.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=34220"
+    },
+    {
+      "id": "68138",
+      "name": "ממיר ומתאם אופטי לסיבים HDV FIBER IVN-AD-SFP-RJ45 Gigabit Ethernet Media Converter SFP",
+      "price_ils": 69.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=68138"
+    },
+    {
+      "id": "133236",
+      "name": "מתאם רשת 1G מהיר עם חיבור CUDY UE10A USB-A",
+      "price_ils": 70.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=133236"
+    },
+    {
+      "id": "33493",
+      "name": "מתאם רשת אלחוטית TP-Link TL-WN8200ND 300Mbps Wireless USB Adapter",
+      "price_ils": 77.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=33493"
+    },
+    {
+      "id": "37881",
+      "name": "מתאם רשת אלחוטית TP-Link Archer T2U Plus AC600 Wireless Dual Band USB",
+      "price_ils": 69.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=37881"
+    },
+    {
+      "id": "34173",
+      "name": "מתאם רשת אלחוטית TP-Link TL-WN725N 150Mbps USB",
+      "price_ils": 35.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=34173"
+    },
+    {
+      "id": "36119",
+      "name": "כרטיס רשת קווי TP-Link TX401 Gigabit PCI Express Network Adapter",
+      "price_ils": 375.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=36119"
+    },
+    {
+      "id": "10524",
+      "name": "מתאם רשת אלחוטית עד TP-Link TL-WN822N nMax 300Mbps",
+      "price_ils": 49.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=10524"
+    },
+    {
+      "id": "35990",
+      "name": "מתאם רשת אלחוטית TP-Link Archer T4U AC1300 Wireless Dual Band USB 3.0",
+      "price_ils": 98.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=35990"
+    },
+    {
+      "id": "39557",
+      "name": "מתאם רשת אלחוטית TP-Link Archer T2U Nano AC600 Wireless USB",
+      "price_ils": 69.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=39557"
+    },
+    {
+      "id": "42379",
+      "name": "כרטיס רשת אלחוטית TP-Link Archer T2E AC600 Wireless Dual Band PCI Express",
+      "price_ils": 79.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=42379"
+    },
+    {
+      "id": "56645",
+      "name": "מתאם רשת Cudy WU650 AC650 Wireless Dual Band Mini USB Adapter",
+      "price_ils": 53.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=56645"
+    },
+    {
+      "id": "57950",
+      "name": "מתאם רשת קווי Cudy PE25 2.5Gbps RJ45 PCIE",
+      "price_ils": 79.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=57950"
+    },
+    {
+      "id": "73268",
+      "name": "מתאם רשת Cudy PE10 RJ45 PCIE",
+      "price_ils": 39.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=73268"
+    },
+    {
+      "id": "81816",
+      "name": "מתאם רשת Cudy WE3000 AX5400 Tri-Band Wi-Fi 6 PCIe",
+      "price_ils": 199.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=81816"
+    },
+    {
+      "id": "83634",
+      "name": "כרטיס רשת קווי TP-Link TG-3468 Gigabit PCI Express Network Adapter",
+      "price_ils": 49.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=83634"
+    },
+    {
+      "id": "83652",
+      "name": "מתאם רשת אלחוטי ‏TP-Link Archer TX20UH Wi-Fi 6 AX1800‎ USB",
+      "price_ils": 199.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=83652"
+    },
+    {
+      "id": "107766",
+      "name": "מתאם סיב אופטי Cudy 10G Ethenet Media Converter MC10G 10Gbps",
+      "price_ils": 450.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=107766"
+    },
+    {
+      "id": "129213",
+      "name": "מתאם רשת אלחוטי Cudy WE9300 BE9300 Wi-Fi 7 Bluetooth 5.4 PCI-E – למחשבים עם מעבד אינטל",
+      "price_ils": 249.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=129213"
+    },
+    {
+      "id": "133239",
+      "name": "מתאם רשת 1G מהיר עם חיבור CUDY UE10C USB-C",
+      "price_ils": 70.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=133239"
+    },
+    {
+      "id": "140939",
+      "name": "מתאם רשת אלחוטי ננו TP-Link TL-WN725N 150Mbps Nano USB",
+      "price_ils": 35.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=140939"
+    },
+    {
+      "id": "140942",
+      "name": "מתאם רשת אלחוטי ננו TP-Link Archer T3U Nano Dual Band AC1300 WiFi USB 3.0",
+      "price_ils": 85.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=140942"
+    },
+    {
+      "id": "140945",
+      "name": "מתאם רשת אלחוטי TP-Link Archer T4U Plus Dual Band AC1300 WiFi USB-A",
+      "price_ils": 98.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=140945"
+    },
+    {
+      "id": "108560",
+      "name": "מציאון - מתאם רשת אלחוטי Cudy WU1400 AC1300 Wi-Fi High-Gain USB Adapter - מוחדש",
+      "price_ils": 49.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=108560"
+    },
+    {
+      "id": "153733",
+      "name": "מתאם רשת TP-Link UE302C מחיבור USB Type-C ל-Gigabit Ethernet במהירות 2.5Gbps",
+      "price_ils": 115.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=153733"
+    },
+    {
+      "id": "153730",
+      "name": "מתאם רשת אלחוטי TP-Link Archer TX20U Nano AX1800 Wi-Fi 6 USB Dual Band",
+      "price_ils": 78.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=153730"
+    },
+    {
+      "id": "153721",
+      "name": "מתאם רשת אלחוטי TP-Link Archer TXE70UH AXE5400 Wi-Fi 6E USB",
+      "price_ils": 147.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=153721"
+    }
+  ]
+}

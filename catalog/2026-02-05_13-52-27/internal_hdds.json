@@ -1,0 +1,101 @@
+{
+  "metadata": {
+    "category_name": "Internal HDDs",
+    "category_slug": "internal_hdds",
+    "source_url": "https://www.ivory.co.il/hard_disk.html",
+    "scraped_at": "2026-02-05T13:52:41.830992",
+    "product_count": 15
+  },
+  "products": [
+    {
+      "id": "100958",
+      "name": "דיסק קשיח Western Digital WD Red Plus WD80EFPX 8TB",
+      "price_ils": 1250.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=100958"
+    },
+    {
+      "id": "147133",
+      "name": "דיסק קשיח Western Digital WD Purple – נפח 4TB – מטמון 128MB – דגם WD44PURZ",
+      "price_ils": 650.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=147133"
+    },
+    {
+      "id": "22993",
+      "name": "דיסק קשיח Western Digital WD Purple – נפח 1TB – מטמון 64MB – דגם WD10PURZ",
+      "price_ils": 335.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=22993"
+    },
+    {
+      "id": "153028",
+      "name": "דיסק קשיח Toshiba N300 – נפח 4TB – מהירות 7200RPM – מטמון 512MB – דגם HDWG740EZSTCU",
+      "price_ils": 690.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=153028"
+    },
+    {
+      "id": "63141",
+      "name": "דיסק קשיח Seagate Exos 7E10 Enterprise ST8000NM017B 256MB 7200RPM 8TB",
+      "price_ils": 1290.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=63141"
+    },
+    {
+      "id": "153022",
+      "name": "דיסק קשיח Toshiba N300 – נפח 8TB – מהירות 7200RPM – מטמון 512MB – דגם HDWG780EZSTAU",
+      "price_ils": 1250.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=153022"
+    },
+    {
+      "id": "59882",
+      "name": "דיסק קשיח Western Digital WD Red Plus WD40EFPX 4TB",
+      "price_ils": 840.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=59882"
+    },
+    {
+      "id": "102796",
+      "name": "דיסק קשיח Western Digital WD Purple Pro Smart Video Hard Drive WD8002PURP 8TB",
+      "price_ils": 1270.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=102796"
+    },
+    {
+      "id": "131664",
+      "name": "דיסק קשיח Toshiba S300 – נפח 4TB – מהירות 5400RPM – מטמון 128MB – דגם HDWT840UZSVA",
+      "price_ils": 695.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=131664"
+    },
+    {
+      "id": "82335",
+      "name": "דיסק קשיח Western Digital WD Purple Surveillance Hard Drive WD11PURZ 1TB",
+      "price_ils": 385.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=82335"
+    },
+    {
+      "id": "153043",
+      "name": "דיסק קשיח Toshiba N300 – נפח 10TB – מהירות 7200RPM – מטמון 512MB – דגם HDWG71AEZSTA",
+      "price_ils": 1450.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=153043"
+    },
+    {
+      "id": "63153",
+      "name": "דיסק קשיח Seagate Exos X18 ST18000NM000J 256MB 7200RPM 18TB",
+      "price_ils": 2250.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=63153"
+    },
+    {
+      "id": "72467",
+      "name": "דיסק קשיח Western Digital WD Purple – נפח 2TB – מטמון 64MB – דגם WD23PURZ",
+      "price_ils": 275.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=72467"
+    },
+    {
+      "id": "153016",
+      "name": "דיסק קשיח Toshiba S300 – נפח 6TB – מהירות 5400RPM – מטמון 256MB – דגם HDWT860UZSVA",
+      "price_ils": 855.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=153016"
+    },
+    {
+      "id": "147136",
+      "name": "דיסק קשיח Western Digital WD Purple Pro – נפח 12TB – מטמון 512MB – דגם WD122PURP",
+      "price_ils": 1770.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=147136"
+    }
+  ]
+}

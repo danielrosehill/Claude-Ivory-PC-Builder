@@ -1,0 +1,371 @@
+{
+  "metadata": {
+    "category_name": "Cases",
+    "category_slug": "cases",
+    "source_url": "https://www.ivory.co.il/computer_case.html",
+    "scraped_at": "2026-02-05T13:52:34.877475",
+    "product_count": 60
+  },
+  "products": [
+    {
+      "id": "65802",
+      "name": "מארז מחשב גיימינג Ivory Gaming Crystal Black ARGB",
+      "price_ils": 499.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=65802"
+    },
+    {
+      "id": "141893",
+      "name": "מסך למארז THERMALRIGHT Trofeo Vision LCD BLACK – עם ממשק USB וחיבור מגנטי – צבע שחור",
+      "price_ils": 290.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=141893"
+    },
+    {
+      "id": "126072",
+      "name": "מארז מחשב Antec AX83 EXTREME RGB בצבע שחור",
+      "price_ils": 259.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=126072"
+    },
+    {
+      "id": "127377",
+      "name": "מארז מחשב ליאן לי Lian Li O11 VISION COMPACT – צבע שחור",
+      "price_ils": 540.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=127377"
+    },
+    {
+      "id": "125025",
+      "name": "מארז מחשב HYTE Y60 כולל כבל רייזר לכרטיס מסך - בצבע שחור",
+      "price_ils": 845.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=125025"
+    },
+    {
+      "id": "127365",
+      "name": "מארז מחשב ליאן לי Lian Li O11 DYNAMIC EVO RGB - צבע לבן",
+      "price_ils": 960.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=127365"
+    },
+    {
+      "id": "147538",
+      "name": "מארז מחשב ליאן לי Lian Li O11 DYNAMIC MINI V2 – צבע שחור",
+      "price_ils": 390.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=147538"
+    },
+    {
+      "id": "64026",
+      "name": "מארז מחשב NZXT H9 Elite בצבע לבן כולל חלון זכוכית קדמי עליון וצדדי Tempered Glass",
+      "price_ils": 1020.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=64026"
+    },
+    {
+      "id": "153112",
+      "name": "מארז מחשב Antec CX300 ARGB – צבע שחור",
+      "price_ils": 299.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=153112"
+    },
+    {
+      "id": "153145",
+      "name": "מארז מחשב Cougar OmnyX – תאורת ARGB – צבע לבן",
+      "price_ils": 575.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=153145"
+    },
+    {
+      "id": "116407",
+      "name": "מארז מחשב Antec C5 ARGB White בצבע לבן",
+      "price_ils": 465.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=116407"
+    },
+    {
+      "id": "143666",
+      "name": "מארז מחשב Be Quiet! PURE BASE 501 Black – צבע שחור",
+      "price_ils": 399.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=143666"
+    },
+    {
+      "id": "147532",
+      "name": "מארז מחשב ליאן לי Lian Li LANCOOL 217 INF – תאורת ARGB – צבע שחור",
+      "price_ils": 540.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=147532"
+    },
+    {
+      "id": "71528",
+      "name": "מארז מחשב Corsair 3000D Airflow Mid-Tower PC Case בצבע שחור",
+      "price_ils": 325.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=71528"
+    },
+    {
+      "id": "34976",
+      "name": "מארז מחשב ASUS TUF Gaming GT301 בצבע שחור כולל חלון צד",
+      "price_ils": 482.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=34976"
+    },
+    {
+      "id": "35355",
+      "name": "מארז מחשב Corsair iCUE 4000X RGB Tempered Glass בצבע לבן",
+      "price_ils": 521.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=35355"
+    },
+    {
+      "id": "32431",
+      "name": "מארז מחשב Be Quiet! Pure Base 500 בצבע לבן",
+      "price_ils": 385.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=32431"
+    },
+    {
+      "id": "32459",
+      "name": "מארז מחשב Be Quiet! Pure Base 500 Window בצבע לבן",
+      "price_ils": 430.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=32459"
+    },
+    {
+      "id": "37690",
+      "name": "מארז מחשב Corsair iCUE 5000X RGB Tempered Glass בצבע לבן",
+      "price_ils": 692.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=37690"
+    },
+    {
+      "id": "64482",
+      "name": "מארז מחשב Be Quiet! Pure Base 500FX בצבע שחור כולל חלון צד",
+      "price_ils": 670.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=64482"
+    },
+    {
+      "id": "68081",
+      "name": "מארז מחשב Antec AX81 Elite בצבע שחור כולל חלון צד ומאווררי ARGB",
+      "price_ils": 279.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=68081"
+    },
+    {
+      "id": "64029",
+      "name": "מארז מחשב NZXT H9 Elite בצבע שחור כולל חלון זכוכית קדמי עליון וצדדי Tempered Glass",
+      "price_ils": 1025.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=64029"
+    },
+    {
+      "id": "66126",
+      "name": "מארז מחשב Ivory Hardware C1 - צבע שחור",
+      "price_ils": 215.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=66126"
+    },
+    {
+      "id": "73841",
+      "name": "מארז מחשב Antec AX90 בצבע שחור כולל חלון צד",
+      "price_ils": 289.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=73841"
+    },
+    {
+      "id": "69500",
+      "name": "מארז מחשב Corsair 7000D Airflow Full Tower ATX PC Case - Black בצבע שחור",
+      "price_ils": 1110.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=69500"
+    },
+    {
+      "id": "69506",
+      "name": "מארז מחשב Corsair iCUE 7000X RGB Full Tower ATX בצבע שחור",
+      "price_ils": 1190.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=69506"
+    },
+    {
+      "id": "71534",
+      "name": "מארז מחשב Corsair 3000D RGB Airflow Mid-Tower PC Case בצבע שחור",
+      "price_ils": 349.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=71534"
+    },
+    {
+      "id": "71540",
+      "name": "מארז מחשב Corsair 3000D RGB Airflow Mid-Tower PC Case בצבע לבן",
+      "price_ils": 349.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=71540"
+    },
+    {
+      "id": "71531",
+      "name": "מארז מחשב Corsair 3000D Airflow Mid-Tower PC Case בצבע לבן",
+      "price_ils": 325.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=71531"
+    },
+    {
+      "id": "65778",
+      "name": "מארז מחשב גיימינג Ivory Gaming Crystal White ARGB",
+      "price_ils": 499.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=65778"
+    },
+    {
+      "id": "65775",
+      "name": "מארז מחשב גיימינג Ivory Gaming G1 ARGB",
+      "price_ils": 245.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=65775"
+    },
+    {
+      "id": "85437",
+      "name": "מארז מחשב FSP CMT195A בצבע שחור כולל חלון צד ותאורת ARGB",
+      "price_ils": 205.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=85437"
+    },
+    {
+      "id": "85449",
+      "name": "מארז מחשב FSP CMT223S בצבע שחור עם ריפוד נגד רעש",
+      "price_ils": 285.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=85449"
+    },
+    {
+      "id": "87585",
+      "name": "מארז מחשב Thermaltake The Tower 300 Micro בצבע שחור",
+      "price_ils": 770.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=87585"
+    },
+    {
+      "id": "87588",
+      "name": "מארז מחשב Thermaltake The Tower 300 Micro בצבע לבן",
+      "price_ils": 770.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=87588"
+    },
+    {
+      "id": "94179",
+      "name": "מארז מחשב Corsair 6500X Mid-Tower Dual Chamber בצבע שחור",
+      "price_ils": 580.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=94179"
+    },
+    {
+      "id": "94188",
+      "name": "מארז מחשב Corsair 6500D AIRFLOW Mid-Tower Dual Chamber בצבע לבן",
+      "price_ils": 589.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=94188"
+    },
+    {
+      "id": "95028",
+      "name": "מארז מחשב Jonsbo C6 White בצבע לבן",
+      "price_ils": 265.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=95028"
+    },
+    {
+      "id": "95043",
+      "name": "מארז מחשב Jonsbo D300 Black",
+      "price_ils": 450.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=95043"
+    },
+    {
+      "id": "95046",
+      "name": "מארז מחשב Jonsbo D300 White",
+      "price_ils": 450.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=95046"
+    },
+    {
+      "id": "95058",
+      "name": "מארז Jonsbo MOD-5 GRAY עשוי אלומיניום בצבע אפור כסוף עם חלון צד ותאורת RGB",
+      "price_ils": 1480.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=95058"
+    },
+    {
+      "id": "95088",
+      "name": "מארז מחשב Jonsbo TR03-G Silver בצבע כסוף עם חלון זכוכית",
+      "price_ils": 1150.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=95088"
+    },
+    {
+      "id": "102622",
+      "name": "מארז מחשב Corsair iCUE LINK 6500X RGB Mid-Tower Dual Chamber בצבע לבן",
+      "price_ils": 969.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=102622"
+    },
+    {
+      "id": "112767",
+      "name": "מארז מחשב Antec CX800 Wood ARGB בצבע שחור/עץ",
+      "price_ils": 339.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=112767"
+    },
+    {
+      "id": "113155",
+      "name": "מארז מחשב FSP CMT192 בצבע לבן עם תאורת RGB קבועה",
+      "price_ils": 215.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=113155"
+    },
+    {
+      "id": "104976",
+      "name": "מארז מחשב Antec C5 ARGB Black בצבע שחור",
+      "price_ils": 460.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=104976"
+    },
+    {
+      "id": "113163",
+      "name": "מארז מחשב FSP S380 ARGB Micro ATX בצבע לבן",
+      "price_ils": 380.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=113163"
+    },
+    {
+      "id": "113167",
+      "name": "מארז מחשב FSP M580 ARGB בצבע לבן",
+      "price_ils": 599.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=113167"
+    },
+    {
+      "id": "115037",
+      "name": "מארז מחשב Thermaltake View 380 TG ARGB בצבע לבן",
+      "price_ils": 495.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=115037"
+    },
+    {
+      "id": "115041",
+      "name": "מארז מחשב Thermaltake View 380 TG ARGB בצבע כחול Hydrangea",
+      "price_ils": 495.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=115041"
+    },
+    {
+      "id": "115043",
+      "name": "מארז מחשב Thermaltake View 270 TG ARGB בצבע שחור",
+      "price_ils": 550.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=115043"
+    },
+    {
+      "id": "115045",
+      "name": "מארז מחשב Thermaltake View 270 TG ARGB בצבע לבן",
+      "price_ils": 420.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=115045"
+    },
+    {
+      "id": "115047",
+      "name": "מארז מחשב Thermaltake View 270 TG ARGB בצבע ירוק Matcha",
+      "price_ils": 420.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=115047"
+    },
+    {
+      "id": "115049",
+      "name": "מארז מחשב Thermaltake View 270 TG ARGB בצבע כחול Hydrangea",
+      "price_ils": 420.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=115049"
+    },
+    {
+      "id": "115055",
+      "name": "מארז מחשב Thermaltake Ceres 350 MX ARGB בצבע שחור עם פאנל קדמי מתחלף",
+      "price_ils": 550.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=115055"
+    },
+    {
+      "id": "115057",
+      "name": "מארז מחשב Thermaltake Ceres 350 MX ARGB בצבע לבן עם פאנל קדמי מתחלף",
+      "price_ils": 550.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=115057"
+    },
+    {
+      "id": "115059",
+      "name": "מארז מחשב Thermaltake Ceres 350 MX ARGB בצבע ורוד עם פאנל קדמי מתחלף",
+      "price_ils": 550.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=115059"
+    },
+    {
+      "id": "115061",
+      "name": "מארז מחשב Thermaltake Ceres 350 MX ARGB בצבע צהוב עם פאנל קדמי מתחלף",
+      "price_ils": 550.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=115061"
+    },
+    {
+      "id": "115063",
+      "name": "מארז מחשב Thermaltake Ceres 350 MX ARGB בצבע כחול Hydrangea עם פאנל קדמי מתחלף",
+      "price_ils": 550.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=115063"
+    },
+    {
+      "id": "115065",
+      "name": "מארז מחשב Thermaltake Ceres 350 MX ARGB בצבע ירוק Matcha עם פאנל קדמי מתחלף",
+      "price_ils": 550.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=115065"
+    }
+  ]
+}

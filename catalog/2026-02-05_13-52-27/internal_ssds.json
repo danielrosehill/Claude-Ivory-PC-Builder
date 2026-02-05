@@ -1,0 +1,299 @@
+{
+  "metadata": {
+    "category_name": "Internal SSDs",
+    "category_slug": "internal_ssds",
+    "source_url": "https://www.ivory.co.il/ssd_storage.html",
+    "scraped_at": "2026-02-05T13:52:40.099368",
+    "product_count": 48
+  },
+  "products": [
+    {
+      "id": "141917",
+      "name": "כונן SanDisk SSD Plus – נפח 250GB – ממשק SATA III – דגם SDSSDA-250G-G28",
+      "price_ils": 249.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=141917"
+    },
+    {
+      "id": "107884",
+      "name": "כונן Kingston 500GB NV3 PCIe 4.0 NVMe SSD M.2",
+      "price_ils": 379.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=107884"
+    },
+    {
+      "id": "107886",
+      "name": "כונן Kingston 1TB NV3 PCIe 4.0 NVMe SSD M.2",
+      "price_ils": 539.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=107886"
+    },
+    {
+      "id": "87930",
+      "name": "כונן Team Group T-FORCE VULCAN Z 1TB SATA III SSD",
+      "price_ils": 495.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=87930"
+    },
+    {
+      "id": "59252",
+      "name": "כונן Samsung 990 Pro MZ-V9P2T0BW PCle 4.0 NVMe M.2 2TB SSD",
+      "price_ils": 1290.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=59252"
+    },
+    {
+      "id": "152890",
+      "name": "כונן Crucial P310 M.2 SSD – נפח 1TB – ממשק PCIe Gen4 – גודל 2280",
+      "price_ils": 545.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=152890"
+    },
+    {
+      "id": "129486",
+      "name": "כונן WD Green SN3000 NVMe SSD 500GB",
+      "price_ils": 345.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=129486"
+    },
+    {
+      "id": "25215",
+      "name": "כונן Kingston A400 SA400S37/960G 960GB SSD",
+      "price_ils": 570.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=25215"
+    },
+    {
+      "id": "131364",
+      "name": "כונן Samsung 9100 PRO NVMe M.2 SSD 4TB",
+      "price_ils": 2590.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=131364"
+    },
+    {
+      "id": "141911",
+      "name": "כונן SanDisk SSD Plus – נפח 2TB – ממשק SATA III – דגם SDSSDA-2T00-G28",
+      "price_ils": 1245.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=141911"
+    },
+    {
+      "id": "146057",
+      "name": "כונן Crucial E100 1TB PCIe Gen4 NVMe M.2 SSD",
+      "price_ils": 560.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=146057"
+    },
+    {
+      "id": "107888",
+      "name": "כונן Kingston 2TB NV3 PCIe 4.0 NVMe SSD M.2",
+      "price_ils": 950.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=107888"
+    },
+    {
+      "id": "71597",
+      "name": "כונן Kingston 1TB KC3000 SKC3000S/1024G PCIe 4.0 NVMe SSD M.2",
+      "price_ils": 965.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=71597"
+    },
+    {
+      "id": "115755",
+      "name": "כונן Kingston 4TB NV3 PCIe 4.0 NVMe SSD M.2",
+      "price_ils": 1790.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=115755"
+    },
+    {
+      "id": "129489",
+      "name": "כונן WD Green SN3000 NVMe SSD 1TB",
+      "price_ils": 565.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=129489"
+    },
+    {
+      "id": "87927",
+      "name": "כונן Team Group T-FORCE VULCAN Z 512GB SATA III SSD",
+      "price_ils": 349.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=87927"
+    },
+    {
+      "id": "128973",
+      "name": "כונן WD Blue SN5000 NVMe SSD 2TB",
+      "price_ils": 1099.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=128973"
+    },
+    {
+      "id": "59216",
+      "name": "כונן Samsung 990 Pro MZ-V9P1T0BW PCle 4.0 NVMe M.2 1TB SSD",
+      "price_ils": 799.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=59216"
+    },
+    {
+      "id": "124659",
+      "name": "כונן Samsung 990 EVO Plus NVMe M.2 SSD 1TB",
+      "price_ils": 799.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=124659"
+    },
+    {
+      "id": "22070",
+      "name": "כונן Kingston A400 SA400S37/240G 240GB SSD",
+      "price_ils": 299.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=22070"
+    },
+    {
+      "id": "155248",
+      "name": "כונן Team Group NV5000 M.2 PCIe 4.0 2TB SSD",
+      "price_ils": 1190.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=155248"
+    },
+    {
+      "id": "152767",
+      "name": "כונן WD Green 500GB WDS500G5G0A SATA III SSD",
+      "price_ils": 485.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=152767"
+    },
+    {
+      "id": "23562",
+      "name": "כונן Kingston A400 SA400S37/480G 480GB SSD",
+      "price_ils": 450.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=23562"
+    },
+    {
+      "id": "128976",
+      "name": "כונן WD Blue SN5000 NVMe SSD 4TB",
+      "price_ils": 1579.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=128976"
+    },
+    {
+      "id": "135993",
+      "name": "כונן Corsair MP600 PRO NH 4TB PCIe 4.0 (Gen 4) x4 NVMe M.2 SSD",
+      "price_ils": 1790.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=135993"
+    },
+    {
+      "id": "71600",
+      "name": "כונן Kingston 2TB KC3000 SKC3000D/2048G PCIe 4.0 NVMe SSD M.2",
+      "price_ils": 1250.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=71600"
+    },
+    {
+      "id": "71603",
+      "name": "כונן Kingston 4TB KC3000 SKC3000D/4096G PCIe 4.0 NVMe SSD M.2",
+      "price_ils": 2550.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=71603"
+    },
+    {
+      "id": "77519",
+      "name": "כונן Crucial T700 4TB PCIe Gen5 NVMe M.2 2280 SSD דגם CT4000T700SSD3",
+      "price_ils": 2985.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=77519"
+    },
+    {
+      "id": "77513",
+      "name": "כונן Crucial T700 2TB PCIe Gen5 NVMe M.2 2280 SSD דגם CT2000T700SSD3",
+      "price_ils": 1599.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=77513"
+    },
+    {
+      "id": "77507",
+      "name": "כונן Crucial T700 1TB PCIe Gen5 NVMe M.2 2280 SSD דגם CT1000T700SSD3",
+      "price_ils": 907.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=77507"
+    },
+    {
+      "id": "75491",
+      "name": "כונן Samsung 990 Pro with Heatsink PCle 4.0 NVMe M.2 2TB SSD כולל גוף קירור",
+      "price_ils": 1190.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=75491"
+    },
+    {
+      "id": "87936",
+      "name": "כונן Team Group T-FORCE Z540 M.2 PCIe 2TB SSD",
+      "price_ils": 1490.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=87936"
+    },
+    {
+      "id": "87945",
+      "name": "כונן Team Group MP33 PRO M.2 PCIe 2TB SSD",
+      "price_ils": 999.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=87945"
+    },
+    {
+      "id": "87942",
+      "name": "כונן Team Group MP33 PRO M.2 PCIe 512GB SSD",
+      "price_ils": 389.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=87942"
+    },
+    {
+      "id": "111783",
+      "name": "כונן Crucial T705 PCIe Gen5 NVMe M.2 1TB SSD",
+      "price_ils": 790.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=111783"
+    },
+    {
+      "id": "111787",
+      "name": "כונן Crucial T705 PCIe Gen5 NVMe M.2 4TB SSD",
+      "price_ils": 2880.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=111787"
+    },
+    {
+      "id": "111785",
+      "name": "כונן Crucial T705 PCIe Gen5 NVMe M.2 2TB SSD",
+      "price_ils": 1550.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=111785"
+    },
+    {
+      "id": "120479",
+      "name": "כונן Team Group MP44L M.2 PCIe4.0 500GB SSD",
+      "price_ils": 365.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=120479"
+    },
+    {
+      "id": "124662",
+      "name": "כונן Samsung 990 EVO Plus NVMe M.2 SSD 2TB",
+      "price_ils": 989.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=124662"
+    },
+    {
+      "id": "131358",
+      "name": "כונן Samsung 9100 PRO NVMe M.2 SSD 1TB",
+      "price_ils": 990.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=131358"
+    },
+    {
+      "id": "131361",
+      "name": "כונן Samsung 9100 PRO NVMe M.2 SSD 2TB",
+      "price_ils": 1450.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=131361"
+    },
+    {
+      "id": "131889",
+      "name": "כונן Kingston FURY Renegade G5 PCIe 5.0 NVMe M.2 SSD 4TB",
+      "price_ils": 2690.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=131889"
+    },
+    {
+      "id": "135987",
+      "name": "כונן SSD עם קירור Corsair MP700 PRO 1TB PCIe Gen5x4 NVMe 2.0 M.2",
+      "price_ils": 760.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=135987"
+    },
+    {
+      "id": "135990",
+      "name": "כונן SSD עם קירור Corsair MP700 PRO 2TB PCIe Gen5x4 NVMe 2.0 M.2",
+      "price_ils": 1275.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=135990"
+    },
+    {
+      "id": "94296",
+      "name": "כונן Team Group MP44 M.2 PCIe 4.0 4TB SSD",
+      "price_ils": 1790.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=94296"
+    },
+    {
+      "id": "145325",
+      "name": "מציאון - כונן Kingston A400 SA400S37/480G 480GB SSD - מוחדש",
+      "price_ils": 425.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=145325"
+    },
+    {
+      "id": "144632",
+      "name": "כונן Team Group NV5000 M.2 PCIe 4.0 1TB SSD",
+      "price_ils": 675.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=144632"
+    },
+    {
+      "id": "145415",
+      "name": "מציאון - כונן Kingston A400 SA400S37/240G 240GB SSD - מוחדש",
+      "price_ils": 195.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=145415"
+    }
+  ]
+}

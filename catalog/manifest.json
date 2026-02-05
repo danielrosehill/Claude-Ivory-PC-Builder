@@ -1,0 +1,14 @@
+{
+  "description": "Catalog scrape history",
+  "runs": [
+    {
+      "timestamp": "2026-02-05_13-52-27",
+      "scraped_at": "2026-02-05T13:52:27.973751",
+      "categories_scraped": 16,
+      "total_products": 660,
+      "directory": "2026-02-05_13-52-27"
+    }
+  ],
+  "latest": "2026-02-05_13-52-27",
+  "updated_at": "2026-02-05T13:52:55.705213"
+}

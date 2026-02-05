@@ -1,0 +1,89 @@
+{
+  "metadata": {
+    "category_name": "GPUs - AMD",
+    "category_slug": "gpus_amd",
+    "source_url": "https://www.ivory.co.il/catalog.php?act=cat&id=2652&f=1259",
+    "scraped_at": "2026-02-05T13:44:13.524835",
+    "product_count": 13
+  },
+  "products": [
+    {
+      "id": "74171",
+      "name": "כרטיס מסך SAPPHIRE PULSE AMD Radeon RX 7600 8GB GDDR6",
+      "price_ils": 1320.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=74171"
+    },
+    {
+      "id": "76976",
+      "name": "כרטיס מסך SAPPHIRE NITRO+ AMD Radeon RX 7700 XT 12GB GDDR6",
+      "price_ils": 2250.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=76976"
+    },
+    {
+      "id": "124401",
+      "name": "כרטיס מסך SAPPHIRE NITRO+ AMD Radeon RX 9070 XT OC 16GB GDDR6",
+      "price_ils": 3850.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=124401"
+    },
+    {
+      "id": "124410",
+      "name": "כרטיס מסך SAPPHIRE NITRO+ AMD Radeon RX 9070 OC 16GB GDDR6",
+      "price_ils": 3250.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=124410"
+    },
+    {
+      "id": "124404",
+      "name": "כרטיס מסך SAPPHIRE PURE AMD Radeon RX 9070 XT OC 16GB GDDR6",
+      "price_ils": 3890.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=124404"
+    },
+    {
+      "id": "124413",
+      "name": "כרטיס מסך SAPPHIRE PURE AMD Radeon RX 9070 OC 16GB GDDR6",
+      "price_ils": 3190.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=124413"
+    },
+    {
+      "id": "124407",
+      "name": "כרטיס מסך SAPPHIRE PULSE AMD Radeon RX 9070 XT 16GB GDDR6",
+      "price_ils": 3590.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=124407"
+    },
+    {
+      "id": "124416",
+      "name": "כרטיס מסך SAPPHIRE PULSE AMD Radeon RX 9070 16GB GDDR6",
+      "price_ils": 2990.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=124416"
+    },
+    {
+      "id": "133686",
+      "name": "כרטיס מסך SAPPHIRE PURE AMD Radeon RX 9060 XT OC 16GB GDDR6",
+      "price_ils": 1990.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=133686"
+    },
+    {
+      "id": "133689",
+      "name": "כרטיס מסך SAPPHIRE PULSE AMD Radeon RX 9060 XT OC 16GB GDDR6",
+      "price_ils": 1860.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=133689"
+    },
+    {
+      "id": "133692",
+      "name": "כרטיס מסך SAPPHIRE PULSE AMD Radeon RX 9060 XT OC 8GB GDDR6",
+      "price_ils": 1620.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=133692"
+    },
+    {
+      "id": "136491",
+      "name": "כרטיס מסך SAPPHIRE NITRO+ AMD Radeon RX 9060 XT OC 16GB GDDR6",
+      "price_ils": 1930.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=136491"
+    },
+    {
+      "id": "147157",
+      "name": "כרטיס מסך SAPPHIRE PULSE AMD Radeon RX 9060 XT 8GB GDDR6",
+      "price_ils": 1620.0,
+      "url": "https://www.ivory.co.il/catalog.php?id=147157"
+    }
+  ]
+}
